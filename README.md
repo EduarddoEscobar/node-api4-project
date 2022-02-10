@@ -10,7 +10,7 @@ Your assignment page on Canvas should contain instructions for submitting this p
 
 ### Task 2: Minimum Viable Product
 
-- [ ] Build a simple API:
+- [x] Build a simple API:
 
   - Create a `.gitignore` file executing `npx gitignore node`
   - Create a `package.json` file executing `npm init --y`
